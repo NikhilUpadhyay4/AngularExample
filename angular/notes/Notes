@@ -1,0 +1,2 @@
+[]-> means properties binding data flow from class to templet
+()-> means events binding data flow from templet to class.
